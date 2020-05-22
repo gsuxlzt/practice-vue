@@ -1,4 +1,5 @@
 # portfolio
+<<<<<<< HEAD
 
 > Personal website and portfolio
 
@@ -21,3 +22,6 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
+=======
+Personal website and portfolio
+>>>>>>> 44b83724db3e230b4bf6ccb411e524ed56c54be5
